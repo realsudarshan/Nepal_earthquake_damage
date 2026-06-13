@@ -26,5 +26,5 @@ python -m src.train
 \`\`\`
 
 ## Model & Demo
-- Trained model: [HF Model Repo link - TBD]
-- Live demo: [HF Space link - TBD]
+- Trained model: [[HF Model Repo link - TBD]](https://huggingface.co/realsudarshan/nepal-earthquake-damage)
+- Live demo: [[HF Space link - TBD]](https://huggingface.co/spaces/realsudarshan/nepal-earthquake-demo)
